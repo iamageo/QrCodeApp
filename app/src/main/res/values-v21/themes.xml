@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MySwitch" parent="@style/Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:textColorPrimaryDisableOnly">#b71c1c</item>
+        <item name="android:colorControlActivated">#1b5e20</item>
+        <item name="android:colorForeground">#f57f17</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat</item>
+    </style>
+
+</resources>

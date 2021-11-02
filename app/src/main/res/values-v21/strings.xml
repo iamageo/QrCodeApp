@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCODE</string>
+    <string name="main_scan">Scanear</string>
+    <string name="todo_text">TODO</string>
+    <string name="main_title">Simples e rápido.</string>
+    <string name="main_subtitle">Basta escanear que seu o conteúdo aparece..\n como um toque de mágica</string>
+</resources>

@@ -34,6 +34,7 @@ android {
     viewBinding {
         enabled = true
     }
+    namespace 'com.iamageo.qrcode'
 }
 
 dependencies {

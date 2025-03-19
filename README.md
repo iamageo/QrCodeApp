@@ -1,6 +1,6 @@
-# qrcode 
+# Simple QRCode Reader App 
 <h4 align="center">
-simple qrcode scan application
+Simple QRCode scan app
 <h4>
 
 |                             |                             |                             |                             |
@@ -9,7 +9,7 @@ simple qrcode scan application
 |                             |                             |                              | 
 
 ## Tech stack & Open-source libraries
-- Minimum SDK level 19
+- Minimum SDK level 21
 - 100% [Kotlin](https://kotlinlang.org/)
 - Material Design
 - Lottie: https://github.com/airbnb/lottie-android

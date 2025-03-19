@@ -53,5 +53,5 @@ dependencies {
     implementation 'com.google.zxing:core:3.4.0'
 
     //lottie
-    implementation 'com.airbnb.android:lottie:4.2.0'
+    implementation 'com.airbnb.android:lottie:6.3.0'
 }
